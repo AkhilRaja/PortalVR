@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class antialiansingcorrection : MonoBehaviour
+public class AntiAliasing : MonoBehaviour
 {
     void Start()
     {
